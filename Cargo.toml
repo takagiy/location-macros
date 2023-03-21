@@ -2,6 +2,8 @@
 name = "location-macros"
 version = "0.1.0"
 edition = "2021"
+license = "BSL-1.0"
+authors = ["Yuki Takagi <takagiy.4dev@gmail.com>"]
 
 [lib]
 proc-macro = true
