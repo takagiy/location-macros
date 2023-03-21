@@ -1,13 +1,13 @@
 [package]
 name = "location-macros"
 description = "Collection of macros for obtaining the absolute path of the project root"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "BSL-1.0"
 authors = ["Yuki Takagi <takagiy.4dev@gmail.com>"]
 repository = "https://github.com/takagiy/location-macros"
 keywords = ["macros", "project", "root", "absolute", "path"]
-categories = ["filesystem", "configuration", "development-tools"]
+categories = ["filesystem", "config", "development-tools"]
 
 [lib]
 proc-macro = true
