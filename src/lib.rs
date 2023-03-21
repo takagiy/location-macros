@@ -1,3 +1,6 @@
+//! # location-macros
+//!
+//! A collection of macros for obtaining the location of the project root.
 use crate::core::{locate, LocationKind};
 use proc_macro::TokenStream;
 
